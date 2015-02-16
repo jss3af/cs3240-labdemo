@@ -1,3 +1,6 @@
 __author__ = 'jss3af'
 
-print("hello")
+def greeting(msg):
+    print(msg)
+
+greeting("hello")
